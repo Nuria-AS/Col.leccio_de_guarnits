@@ -2,7 +2,7 @@
 
 Núria Auset, "Col·lecció de guarnits", 2021. 
 
-En aquest repositori s’exposa i distribueix un projecte en que es recopilen objectes creats en 3D, agafant com a referència peces del guarnit creat per l’Associació Joan Blanques de Baix per a la Festa Major de Gràcia (C/ Joan Blanques de Baix, la Vila de Gràcia, barri de Gracia, 08012 Barcelona). 
+En aquest repositori s’exposa i distribueix un projecte en que es recopilen objectes creats en 3D utilitzant el software Blender, agafant com a referència peces del guarnit creat per l’Associació Joan Blanques de Baix per a la Festa Major de Gràcia (C/ Joan Blanques de Baix, la Vila de Gràcia, barri de Gracia, 08012 Barcelona). 
 
 Aquesta col·lecció consta de 10 objectes numerats. 4 pertanyents al guarnit del 2013 amb el guarnit de temàtica La impremta, uns altres 4 de l’any 2012 del guarnit amb el títol L’Aigua és vida, i 2 del 2011 representant al guarnit de temàtica El Cafè. És una col·lecció que no es considera com acabada, i que es té la intenció de mantenir una continuïtat en la creació d’objectes representant i agafant com a referència el guarnit de la Festa Major de Gràcia. 
 
@@ -18,7 +18,10 @@ Amb aquests objectes i imatges dels objectes, es deixa via lliure als interessat
 
 També, es voldria compartir aquest projecte amb els veïns i veïnes de l’Associació Joan Blanques de Baix, ja que han sigut la font d’inspiració d’aquest projecte, transmetent-nos aquest sentiment de comunitat veïnal i descobrint-nos de primera mà què és realment la Festa Major de Gràcia. Per aquest motiu, també es comparteix el link del repositori a la web de l’Arxiu que es va crear en el treball grupal. 
 
-Si es vol descobrir més informació sobre la Festa Major de Gràcia, la tradició del guarnit, i les associacions i entitats de Gràcia, es recomana visitar la web d’un Arxiu que es va crear com a procés d’investigació (Arxiu. Berta León, Estel Pereira, Isabel Ruan, Núria Auset): 
+![mostra d'objectes 1 - readme](https://user-images.githubusercontent.com/65736048/112312663-55181200-8ca7-11eb-82bb-75793e3d086b.png)
+
+
+Si es vol descobrir més informació sobre la Festa Major de Gràcia, la tradició del guarnit, i les associacions i entitats de Gràcia, es recomana visitar la web d’un Arxiu que es va crear com a procés d’investigació ("Arxiu". Berta León, Estel Pereira, Isabel Ruan, Núria Auset): 
 
 https://fmjoanblanques.hotglue.me/?ARXIU  
 
